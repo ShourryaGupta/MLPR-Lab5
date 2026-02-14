@@ -24,4 +24,9 @@ The template image was classified into the nearest cluster using the trained mod
 
 ## Conclusion
 This lab shows how feature extraction and distance-based clustering can be used for image-based classification tasks.
-<img width="515" height="371" alt="Screenshot 2026-02-14 at 4 07 18 PM" src="https://github.com/user-attachments/assets/d7196f80-2e47-4bed-9222-51a96a299375" />
+<img width="1005" height="546" alt="Output6" src="https://github.com/user-attachments/assets/191ff418-3bc5-4b7b-8b7f-e4d09d6e4f39" />
+<img width="1006" height="545" alt="Output5" src="https://github.com/user-attachments/assets/903fbb98-8f80-41a7-9653-85c0d8139d93" />
+<img width="389" height="408" alt="Output4" src="https://github.com/user-attachments/assets/990fcf04-6de3-491b-bcdf-7ca9980d8819" />
+<img width="1005" height="544" alt="Output3" src="https://github.com/user-attachments/assets/4e8747a0-5305-4014-8ba6-4676b51cce3a" />
+<img width="1007" height="544" alt="Output2" src="https://github.com/user-attachments/assets/9453f30c-7714-4e1d-a9f1-c0811b2e5d9d" />
+<img width="515" height="371" alt="Output1" src="https://github.com/user-attachments/assets/1fa280bf-e9fc-4b4e-bf72-cf1ee4291bf1" />
