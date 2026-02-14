@@ -1,4 +1,3 @@
-# MLPR-Lab5
 MLPR LAB 5 — SPRING 2026
 
 ## Aim
@@ -25,3 +24,4 @@ The template image was classified into the nearest cluster using the trained mod
 
 ## Conclusion
 This lab shows how feature extraction and distance-based clustering can be used for image-based classification tasks.
+<img width="515" height="371" alt="Screenshot 2026-02-14 at 4 07 18 PM" src="https://github.com/user-attachments/assets/d7196f80-2e47-4bed-9222-51a96a299375" />
