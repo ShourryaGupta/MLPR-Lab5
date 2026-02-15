@@ -4,11 +4,11 @@ MLPR LAB 5 — SPRING 2026
 To detect faces in an image and cluster them using HSV color features and K-means clustering.
 
 ## Methodology
-- Face detection using Haar Cascade classifier
-- Conversion of detected faces to HSV color space
-- Extraction of Hue and Saturation features
-- K-means clustering of face features
-- Classification of a template image using trained clusters
+-Face detection using Haar Cascade classifier
+-Conversion of detected faces to HSV color space
+-Extraction of Hue and Saturation features
+-K-means clustering of face features
+-Classification of a template image using trained clusters
 
 ## Tools Used
 - Python
